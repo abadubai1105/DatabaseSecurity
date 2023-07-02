@@ -1,0 +1,11 @@
+E:\HCMUS\BMCSDL\lab4-canhan\lab4-20120335\lab4-20120335\bin\Debug\lab4-20120335.exe.config
+E:\HCMUS\BMCSDL\lab4-canhan\lab4-20120335\lab4-20120335\bin\Debug\lab4-20120335.exe
+E:\HCMUS\BMCSDL\lab4-canhan\lab4-20120335\lab4-20120335\bin\Debug\lab4-20120335.pdb
+E:\HCMUS\BMCSDL\lab4-canhan\lab4-20120335\lab4-20120335\obj\Debug\lab4-20120335.csprojAssemblyReference.cache
+E:\HCMUS\BMCSDL\lab4-canhan\lab4-20120335\lab4-20120335\obj\Debug\lab4_20120335.Login.resources
+E:\HCMUS\BMCSDL\lab4-canhan\lab4-20120335\lab4-20120335\obj\Debug\lab4_20120335.Properties.Resources.resources
+E:\HCMUS\BMCSDL\lab4-canhan\lab4-20120335\lab4-20120335\obj\Debug\lab4-20120335.csproj.GenerateResource.cache
+E:\HCMUS\BMCSDL\lab4-canhan\lab4-20120335\lab4-20120335\obj\Debug\lab4-20120335.csproj.CoreCompileInputs.cache
+E:\HCMUS\BMCSDL\lab4-canhan\lab4-20120335\lab4-20120335\obj\Debug\lab4-20120335.exe
+E:\HCMUS\BMCSDL\lab4-canhan\lab4-20120335\lab4-20120335\obj\Debug\lab4-20120335.pdb
+E:\HCMUS\BMCSDL\lab4-canhan\lab4-20120335\lab4-20120335\obj\Debug\lab4_20120335.QLNV.resources
